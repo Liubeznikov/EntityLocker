@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="EntityLocker_jcstress" target="1.8" />
+      <module name="EntityLocker_main" target="1.8" />
+      <module name="EntityLocker_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

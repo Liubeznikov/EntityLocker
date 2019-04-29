@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openjdk.jcstress:jcstress-core:0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jcstress/jcstress-core/0.4/80a5bb3eaa6a0dd6abbc23ff21c717d1e75b7bf4/jcstress-core-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjdk.jcstress/jcstress-core/0.4/5d066d44d9de782a46e3fc192e8c56ca2f785a22/jcstress-core-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

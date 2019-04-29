@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EntityLocker.iml" filepath="$PROJECT_DIR$/EntityLocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityLocker_jcstress.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityLocker_jcstress.iml" group="EntityLocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityLocker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityLocker_main.iml" group="EntityLocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EntityLocker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EntityLocker_test.iml" group="EntityLocker" />
+    </modules>
+  </component>
+</project>

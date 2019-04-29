@@ -1,0 +1,35 @@
+group 'com.deyneka.utils'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'jcstress'
+
+sourceCompatibility = 1.8
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.github.erizo.gradle:jcstress-gradle-plugin:0.8.1'
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+test {
+    useTestNG()
+}
+
+dependencies {
+    testCompile group: 'org.testng', name: 'testng', version: '6.14.3'
+    compile "org.openjdk.jcstress:jcstress-core:0.4"
+}
+
+jcstress {
+    jcstressDependency "org.openjdk.jcstress:jcstress-core:0.4"
+}
